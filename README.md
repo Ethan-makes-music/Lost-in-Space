@@ -8,5 +8,5 @@ then you have to download LOVE: https://love2d.org and then when you did all of 
 
 if you couldent follow the instruction heres a good video on the topic https://www.youtube.com/watch?v=wttKHL90Ank
 
-#Thanks
+# Thanks
 Thank you for downloading this game :)
